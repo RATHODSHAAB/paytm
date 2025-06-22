@@ -1,0 +1,7 @@
+#Dependencies 
+node_module/
+
+#Build 
+dist/
+build/
+
